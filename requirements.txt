@@ -2,3 +2,4 @@ streamlit
 ultralytics
 opencv-python-headless
 numpy
+lap>=0.5.12
